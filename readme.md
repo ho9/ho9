@@ -1,1 +1,1 @@
-<p align="center"><img src="banner.png" alt="zeediv banner"/></p>
+<p align="center"><img src="banner.png" alt="banner"/></p>
